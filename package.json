@@ -18,5 +18,8 @@
   "homepage": "https://github.com/milarako/Advanced-CSS-Sass-Responsive-Design#readme",
   "devDependencies": {
     "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
   }
 }
