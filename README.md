@@ -4,4 +4,4 @@ First project from: Advanced CSS and Sass: Flexbox, Grid, Animations and More! -
 
 ### Rotating Cards
 
-![Cards](img\rotating-cards.gif)
+![Cards](img/rotating-cards.gif)
