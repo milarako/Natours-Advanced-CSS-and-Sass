@@ -4,4 +4,8 @@ First project from: Advanced CSS and Sass: Flexbox, Grid, Animations and More! -
 
 ### Rotating Cards
 
+![Button](snapshots/btn-white.gif)
+![Composition](snapshots/composition.gif)
+![Features](snapshots/features.gif)
 ![Cards](snapshots/rotating-cards.gif)
+![Stories](snapshots/stories.gif)
