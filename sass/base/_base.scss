@@ -19,10 +19,16 @@ html {
     }
 
     @include respond(big-desktop) {
-        font-size: 80%;     // 1rem = 12px; 12/16 = 75%;
+        font-size: 75%;     // 1rem = 12px; 12/16 = 75%;
     }
 }
 
 body {
     box-sizing: border-box;
+    padding: 3rem;
+
+    @include respond(tab-port) {
+        padding: 0;
+    }
+
 }
